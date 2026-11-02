@@ -1,0 +1,19 @@
+# Data files: too large for GitHub (creditcard.csv is ~150 MB, limit is 100 MB per file).
+# Download creditcard.csv from Kaggle instead; train.csv / test.csv are recreated by notebook 02.
+*.csv
+
+# Saved models
+*.joblib
+
+# Jupyter and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
