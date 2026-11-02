@@ -77,4 +77,4 @@ pip install -r requirements.txt
 
 ## Author
 
-[Your name] | [LinkedIn](https://www.linkedin.com/) | [Portfolio projects on GitHub](https://github.com/)
+[Rutvik Randive] | [LinkedIn](https://www.linkedin.com/in/rutvik-randive-ab08a5232/) | [Portfolio projects on GitHub](https://github.com/samael-420)
