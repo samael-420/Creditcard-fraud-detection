@@ -28,11 +28,10 @@ The data file is **not included** in this repo (too large for GitHub). Download 
 
 | Notebook | What it does |
 |---|---|
-| `01_eda.ipynb` | Data quality, class imbalance, amount and time patterns, feature-fraud correlations |
-| `02_split_and_scale.ipynb` | Removes duplicates, stratified 80/20 split, RobustScaler fitted on train only |
-| `03_baseline_model.ipynb` | Logistic Regression with class weights, 5-fold stratified cross-validation |
-| `04_models_and_threshold.ipynb` | Compares SMOTE, undersampling, Random Forest and XGBoost; threshold tuning |
-| `05_final_evaluation.ipynb` | Locks the threshold on validation, scores once on the test set, feature importance |
+| `1_eda_split.ipynb` | Data quality, class imbalance, amount and time patterns, feature fraud correlations,Removes duplicates, stratified 80/20 split, RobustScaler fitted on train only |
+| `2_base_model.ipynb` | Logistic Regression with class weights, 5-fold stratified cross-validation |
+| `3_model_threshold.ipynb` | Compares SMOTE, undersampling, Random Forest and XGBoost; threshold tuning |
+| `4_final_eval.ipynb` | Locks the threshold on validation, scores once on the test set, feature importance |
 
 ## Key findings
 
