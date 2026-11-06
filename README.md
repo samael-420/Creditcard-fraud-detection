@@ -42,9 +42,9 @@ A three-page Power BI dashboard (`fraud_dashboard.pbix`) built on the model resu
 2. **Model performance:** a threshold selector showing frauds caught and missed, false alarms, precision, recall and cost at any threshold, plus the confusion matrix at the chosen threshold (0.33).
 3. **Alert review:** the flagged and missed transactions with their real amounts, hours and fraud probabilities.
 
-![Fraud overview](images/page1_overview.png)
-![Model performance](images/page2_model_performance.png)
-![Alert review](images/page3_alert_review.png)
+![Fraud overview](images/1.png)
+![Model performance](images/2.png)
+![Alert review](images/3.png)
 
 Notes: hours are relative to the first transaction, not clock time. The model pages use the test set only (56,746 transactions, 95 frauds). Cost figures are illustrative assumptions.
 
